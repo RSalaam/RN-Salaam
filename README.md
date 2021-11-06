@@ -26,7 +26,7 @@ Author: Rasheeda Salaam
 2. Copy the clone link provided from the green "code" dropdown above
 3. In your terminal (in the local directory you created/opened), run "git clone [the clone link you copied]"
 4. Open the application in your code editor of choice (I use VS Code)
-5. If not already there, change directory to "RN-Salaam"
+5. If not already there, change directory to "fullstack-RNS"
 6. Run "npm install"
 7. Run "npm start" 
 8. CMD+Click on the link in your terminal to open the landing page of this application
