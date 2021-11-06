@@ -23,7 +23,7 @@ Author: Rasheeda Salaam
 ## Instructions to run application
 
 1. Open/create a directory where you want to save this application
-2. Copy the clone link provided from the green "code" dropdown
+2. Copy the clone link provided from the green "code" dropdown above
 3. In your terminal (in the local directory you created/opened), run "git clone [the clone link you copied]"
 4. Open the application in your code editor of choice (I use VS Code)
 5. If not already there, change directory to "RN-Salaam"
