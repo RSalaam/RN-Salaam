@@ -22,14 +22,14 @@ Author: Rasheeda Salaam
 
 ## Instructions to run application
 
--Open/create a directory where you want to save this application
--Copy the clone link provided from the green "code" dropdown
--In your terminal (in the local directory you created/opened), run "git clone [the clone link you copied]"
--Open the application in your code editor of choice (I use VS Code)
--If not already there, change directory to "RN-Salaam"
--Run "npm install"
--Run "npm start" 
--CMD+Click on the link in your terminal to open the landing page of this application
--A full query is as follows (and you can modify to your liking in line with the given criteria): 
+1. Open/create a directory where you want to save this application
+2. Copy the clone link provided from the green "code" dropdown
+3. In your terminal (in the local directory you created/opened), run "git clone [the clone link you copied]"
+4. Open the application in your code editor of choice (I use VS Code)
+5. If not already there, change directory to "RN-Salaam"
+6. Run "npm install"
+7. Run "npm start" 
+8. CMD+Click on the link in your terminal to open the landing page of this application
+9. A full query is as follows (and you can modify to your liking in line with the given criteria): 
 
 <http://localhost:3000/restaurants?name=aladdin&cuisine_type=african&customer_rating=1&distance=7&price=30>
